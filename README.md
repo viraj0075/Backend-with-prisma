@@ -104,4 +104,4 @@ A full-featured Node.js backend application designed to manage movies and user w
   - `DELETE /watchlist/:movieId` -> Remove from watchlist
 
 ---
-*Created with ❤️ powered by Node + Prisma*
+*Created with Viraj ❤️ powered by Node + Prisma*
